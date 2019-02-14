@@ -1,0 +1,2 @@
+# GSM-Based-fire-alarm-system-using-arduino
+The aim of our project is to build a Sensor system which can transmit information provided by active signals about temperature.By having information about temperature, we check for fire occurance in industries or shopping malls using Arduino and if any fire occurs which will be sensed by sensor system ,a message will be sent to fire station through GSM module and message will be displayed on LCD board thus saving many lives. 
